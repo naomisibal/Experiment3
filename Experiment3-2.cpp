@@ -1,6 +1,6 @@
-﻿#include <iostream>
+#include <iostream>
 #include <conio.h>
-#include<cmath>
+
 using namespace std;
 
 
@@ -35,5 +35,6 @@ int main ()
         }
         
     }	
+_getch();
 return 0;
 }
